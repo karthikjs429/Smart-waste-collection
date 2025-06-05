@@ -87,3 +87,4 @@ smart-waste-optimization/
 │   └── use_cases.md
 │
 └── README.md
+
